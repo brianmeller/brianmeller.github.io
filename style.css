@@ -1,12 +1,13 @@
 h2{
-	font-size: 30px;
+	font-size: 25px;
 	text-align: center;
+	font-style: "Tw Cen MT"
 	}
 h1{
 	color: #4B0082;
 	text-align: center;
-	font-size: 50px;
-	font-family: "Lucida Sans Unicode";
+	font-size: 70px;
+	font-family: "Tw Cen MT";
 	font-weight: bold;
 	padding-top: 30px;
 }
@@ -16,4 +17,19 @@ a:link {
 }
 a:hover {
 	color: gray;
+}
+p{
+	margin-left: 150px;
+}
+h3{
+	font-size: 20px;
+	text-align: left;
+	margin-left: 100px;
+	font-style: "Lucida"
+	}
+ul{
+	margin-left: 150px;
+}
+div{
+	font-weight: bold;
 }
