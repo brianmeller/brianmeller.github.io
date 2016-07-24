@@ -22,9 +22,9 @@ a:active {
 	color: black;
 	text-decoration: none;
 }
-p{
-	padding-left: 20%;
-	padding-right: 20%;
+.info{
+	padding-left: 30%;
+	padding-right: 30%;
 	font-size: 20px
 }
 .heading{
@@ -35,8 +35,10 @@ p{
 	font-style: "Lucida";
 	float: left;
 	display: inline-block;
+	font-weight: bold;
 	}
 ul{
-	padding-left:  25%;
-	padding-right: 25%;
+	padding-left:  15%;
+	padding-right: 15%;
+	font-size: 18px;
 }
