@@ -45,5 +45,6 @@ ul{
 	font-size: 18px;
 }
 footer{
-	text-align: right
+	text-align: right;
+	padding-right: 5px;
 }

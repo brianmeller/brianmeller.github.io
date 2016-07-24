@@ -32,5 +32,6 @@ img{
 	height: 100px;
 }
 footer{
-	text-align: right
+	text-align: right;
+	padding-right: 5px;
 }
