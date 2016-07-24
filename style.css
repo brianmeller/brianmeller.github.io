@@ -27,12 +27,14 @@ p{
 	padding-right: 20%;
 	font-size: 20px
 }
-h3{
+.heading{
 	font-size: 20px;
 	text-align: left;
 	padding-left: 15%;
 	padding-right: 15%;
-	font-style: "Lucida"
+	font-style: "Lucida";
+	float: left;
+	display: inline-block;
 	}
 ul{
 	padding-left:  25%;
