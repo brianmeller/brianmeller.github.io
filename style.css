@@ -36,6 +36,8 @@ a:active {
 	float: left;
 	display: inline-block;
 	font-weight: bold;
+	color: #4B0082;
+	text-decoration: underline;
 	}
 ul{
 	padding-left:  15%;
