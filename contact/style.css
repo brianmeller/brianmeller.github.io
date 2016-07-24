@@ -23,18 +23,17 @@ a:active {
 	text-decoration: none;
 }
 img{
-	float: left; 
-	width: 30%; 
-	margin-right: 1%; 
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 5%;
+	float: left;  
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
 }
 .icon{
 	width: 100px;
 	height: 100px;
 }
 .displayed{
-	padding-left: 28%;
-	padding-right: 15%;
+	padding-left: 37%;
+	padding-right: 30%;
+
 }
