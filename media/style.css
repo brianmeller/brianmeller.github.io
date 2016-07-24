@@ -2,9 +2,10 @@ h2{
 	font-size: 25px;
 	text-align: center;
 	font-style: "Tw Cen MT"
+	color:#4B0082;
 	}
 h1{
-	color: #4B0082;
+	color:#4B0082;
 	text-align: center;
 	font-size: 70px;
 	font-family: "Tw Cen MT";
@@ -21,22 +22,23 @@ a:active {
 	color: black;
 	text-decoration: none;
 }
-p{
-	padding-left: 20%;
-	padding-right: 20%;
+.info{
+	padding-left: 30%;
+	padding-right: 30%;
 	font-size: 20px
 }
-h3{
+.heading{
 	font-size: 20px;
 	text-align: left;
 	padding-left: 15%;
 	padding-right: 15%;
-	font-style: "Lucida"
+	font-style: "Lucida";
+	float: left;
+	display: inline-block;
+	font-weight: bold;
 	}
 ul{
-	padding-left:  25%;
-	padding-right: 25%;
-}
-div{
-	font-weight: bold;
+	padding-left:  15%;
+	padding-right: 15%;
+	font-size: 18px;
 }
